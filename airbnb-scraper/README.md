@@ -51,7 +51,7 @@ One JSON object per row. Main fields:
 | `title`, `name`, `room_type` | Listing title, name and type |
 | `person_capacity`, `bedrooms`, `beds`, `bathrooms` | Size |
 | `price_per_night`, `price_total`, `price_unit_qualifier` | Price for the searched dates, and what the total covers (for example `for 3 nights`) |
-| `price_per_night_original`, `price_currency_symbol` | Price before discount, and the currency symbol |
+| `price_per_night_original`, `price_currency_symbol`, `price_currency` | Price before discount, the currency symbol, and the ISO currency code (for example `USD`) |
 | `rating`, `review_count` | Rating and number of reviews |
 | `is_superhost`, `is_guest_favorite`, `free_cancellation` | Flags |
 | `latitude`, `longitude`, `city`, `country` | Location |
@@ -62,7 +62,7 @@ One JSON object per row. Main fields:
 ## Tips
 
 - Without dates in the search URL, Airbnb prices a 5-night stay.
-- Some hotel-type listings come back from search without a price. For a quote on one listing, use `room_details` with `roomUrls`, `checkIn` and `checkOut`.
+- Search cards carry the stay total for your dates, hotel-type listings included. For a full quote on one listing, use `room_details` with `roomUrls`, `checkIn` and `checkOut`.
 - For a larger area than one search page holds, the actor splits the map and keeps the same filters.
 
 Pricing is per result. See the [actor page](https://datapika.com/actors/airbnb-scraper) for current prices.
