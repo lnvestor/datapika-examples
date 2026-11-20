@@ -1,0 +1,14 @@
+{
+  "name": "datapika-examples",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Working examples for the Datapika web data APIs on Apify",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "apify-client": "^2.26.0"
+  }
+}

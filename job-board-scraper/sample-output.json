@@ -1,0 +1,62 @@
+[
+  {
+    "id": "in-15bbb25e94f87825",
+    "title": "Staff Data Engineer",
+    "company": "PayPal",
+    "location": "Austin, TX, US",
+    "job_url": "https://www.indeed.com/viewjob?jk=15bbb25e94f87825",
+    "job_url_direct": "https://paypal.eightfold.ai/careers/job/274923467476",
+    "site": "indeed",
+    "is_remote": false,
+    "date_posted": "2026-11-19",
+    "salary_source": "direct_data",
+    "salary_min": 145000,
+    "salary_max": 236500,
+    "salary_currency": "USD",
+    "salary_interval": "yearly",
+    "company_url": "https://www.indeed.com/cmp/Paypal",
+    "company_url_direct": "https://www.paypal.com",
+    "company_addresses": "San Jose, CA",
+    "company_description": "We believe now is the time to revolutionize commerce globally to make moving money, selling and shopping simple, personalized and secure. ",
+    "company_num_employees": "10,000+",
+    "company_revenue": "more than $10B (USD)",
+    "company_logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e3b920e25c1b6d5b91c5b5db16570fce",
+    "description": "**The Company**\n\n\nPayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to joi...",
+    "emails": [
+      "[redacted]"
+    ],
+    "search_term": "data engineer",
+    "matched_search_term": "data engineer",
+    "scraped_at": "2026-11-20T15:18:37.925111+00:00"
+  },
+  {
+    "id": "in-95ac1f77342e15f0",
+    "title": "Sr Data Engineer",
+    "company": "PayPal",
+    "location": "Austin, TX, US",
+    "job_url": "https://www.indeed.com/viewjob?jk=95ac1f77342e15f0",
+    "job_url_direct": "https://paypal.eightfold.ai/careers/job/274923467475",
+    "site": "indeed",
+    "is_remote": false,
+    "date_posted": "2026-11-19",
+    "salary_source": "direct_data",
+    "salary_min": 117500,
+    "salary_max": 191950,
+    "salary_currency": "USD",
+    "salary_interval": "yearly",
+    "company_url": "https://www.indeed.com/cmp/Paypal",
+    "company_url_direct": "https://www.paypal.com",
+    "company_addresses": "San Jose, CA",
+    "company_description": "We believe now is the time to revolutionize commerce globally to make moving money, selling and shopping simple, personalized and secure. ",
+    "company_num_employees": "10,000+",
+    "company_revenue": "more than $10B (USD)",
+    "company_logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e3b920e25c1b6d5b91c5b5db16570fce",
+    "description": "**The Company**\n\n\nPayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to joi...",
+    "emails": [
+      "[redacted]"
+    ],
+    "search_term": "data engineer",
+    "matched_search_term": "data engineer",
+    "scraped_at": "2026-11-20T15:18:37.925111+00:00"
+  }
+]

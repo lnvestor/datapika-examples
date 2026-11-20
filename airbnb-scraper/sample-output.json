@@ -1,0 +1,44 @@
+[
+  {
+    "record_type": "listing",
+    "room_id": "1663639623527062900",
+    "room_url": "https://www.airbnb.com/rooms/1663639623527062900",
+    "title": "Wilde Lisbon",
+    "name": "Wilde Lisbon, Essential studio",
+    "rating": 4.92,
+    "review_count": 59,
+    "is_superhost": false,
+    "is_guest_favorite": false,
+    "free_cancellation": true,
+    "latitude": 38.7245,
+    "longitude": -9.1528,
+    "images": [
+      "https://a0.muscache.com/im/pictures/BnbProperty/BnbProperty-1675566802729640483/original/2b23cea3-bc00-4993-b893-d35c1437d3bc.jpeg",
+      "https://a0.muscache.com/im/pictures/BnbProperty/BnbProperty-1675566802729640483/original/70f7c485-c480-4f6c-a2f5-0897eae8a1a7.jpeg",
+      "https://a0.muscache.com/im/pictures/BnbProperty/BnbProperty-1675566802729640483/original/ee964eb8-5377-4f5c-800a-b0aa2e1680c8.jpeg",
+      "https://a0.muscache.com/im/pictures/BnbProperty/BnbProperty-1675566802729640483/original/0df33f32-b603-4890-b6de-c6e5ecffd7e3.jpeg"
+    ],
+    "scraped_at": "2026-11-20T15:19:09.743043+00:00"
+  },
+  {
+    "record_type": "listing",
+    "room_id": "1399853605326576581",
+    "room_url": "https://www.airbnb.com/rooms/1399853605326576581",
+    "title": "Casa Teva Lisboa Hotel",
+    "name": "Casa Teva Lisboa Hotel, Deluxe double room",
+    "rating": 4.97,
+    "review_count": 37,
+    "is_superhost": false,
+    "is_guest_favorite": false,
+    "free_cancellation": true,
+    "latitude": 38.7136,
+    "longitude": -9.1357,
+    "images": [
+      "https://a0.muscache.com/im/pictures/BnbProperty/BnbProperty-1613776510021915031/original/78c34def-2045-4e46-b624-d9a34809aaf2.jpeg",
+      "https://a0.muscache.com/im/pictures/BnbProperty/BnbProperty-1613776510021915031/original/99287c73-7dcb-45fc-87d8-1adfbd6e5b0d.jpeg",
+      "https://a0.muscache.com/im/pictures/BnbProperty/BnbProperty-1613776510021915031/original/60e87e04-ee35-4a8c-9370-13d6ad45814d.jpeg",
+      "https://a0.muscache.com/im/pictures/BnbProperty/BnbProperty-1613776510021915031/original/4b99ed9c-006d-4a41-8dca-402c845ec85e.jpeg"
+    ],
+    "scraped_at": "2026-11-20T15:19:09.743043+00:00"
+  }
+]

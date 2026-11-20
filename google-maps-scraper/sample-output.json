@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Epoch Coffee",
+    "category": "Coffee shop",
+    "place_id": "Epoch+Coffee",
+    "cid": "140078896924485689",
+    "link": "https://www.google.com/maps/place/Epoch+Coffee/data=!4m7!3m6!1s0x8644ca6bc309e81b:0x1f1a903bbb66839!8m2!3d30.3186037!4d-97.7245402!16s%2Fg%2F1v76_180!19sChIJG-gJw2vKRIYROWi2uwOp8QE?authuser=0&hl=en&g_ep=EgoyMDI2MTExNy4wIJJjKgBIAVAD&rclk=1",
+    "address": "221 W N Loop Blvd, Austin, TX 78751",
+    "latitude": 30.318603699999997,
+    "longitude": -97.72454019999999,
+    "plus_code": "879G+C5 Austin, Texas",
+    "timezone": "America/Chicago",
+    "phone": "(512) 454-3762",
+    "website": "http://www.epochcoffee.com/",
+    "review_count": 842,
+    "review_rating": 4.5,
+    "status": "Open 24 hours",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbUgPGjI7YTiGdEVTBc9S1WyLGDxrYE_B639A-LG7OfWboESt65Kariyt2JOO53hzyFITz5ngRXQncTCyHBG4PeCipFts3m9Hb7okCD-nGttqut0-me4trkyWPmmdF_5aPsHcg=w408-h306-k-no",
+    "search_query": "coffee shops in Austin, TX",
+    "scraped_at": "2026-11-20T15:19:14Z"
+  },
+  {
+    "title": "Flora Coffee & Culture",
+    "category": "Coffee shop",
+    "place_id": "Flora+Coffee+%26+Culture",
+    "cid": "18242422809832311318",
+    "link": "https://www.google.com/maps/place/Flora+Coffee+%26+Culture/data=!4m7!3m6!1s0x8644eb01e1b6f12b:0xfd2a1ae49e89ca16!8m2!3d30.362347!4d-97.7421123!16s%2Fg%2F11vrh3fl3l!19sChIJK_G24QHrRIYRFsqJnuQaKv0?authuser=0&hl=en&g_ep=EgoyMDI2MTExNy4wIJJjKgBIAVAD&rclk=1",
+    "address": "3300 W Anderson Ln. Ste 300, Austin, TX 78757",
+    "latitude": 30.362347,
+    "longitude": -97.7421123,
+    "plus_code": "9765+W5 Austin, Texas",
+    "timezone": "America/Chicago",
+    "phone": "",
+    "website": "http://floracoffee.co/",
+    "review_count": 224,
+    "review_rating": 4.9,
+    "status": "Open · Closes 3 PM",
+    "thumbnail": "https://lh3.googleusercontent.com/grass-cs/AABkmLdW7iRfEthGtdWREn3aVFf7NuXq0NIFzonLjHqxSn9QY6SFhvK72RHjOskxEXkSgNOs82LUog6azQuQJga2z4uURTovyfmPtEaKGH4rN3StR7_EDDkePYO81NInf-jo2anbIhX8gA=w408-h295-k-no",
+    "search_query": "coffee shops in Austin, TX",
+    "scraped_at": "2026-11-20T15:19:14Z"
+  }
+]

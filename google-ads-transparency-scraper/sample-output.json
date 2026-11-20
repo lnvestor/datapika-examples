@@ -1,0 +1,84 @@
+[
+  {
+    "item_type": "advertiser",
+    "advertiser_id": "AR02934798844673654785",
+    "advertiser_name": "Booking.com",
+    "advertiser_domain": "booking.com",
+    "declared_ad_count": null,
+    "source_query": "booking.com",
+    "region": "US",
+    "scraped_at": "2026-11-20T15:19:09Z"
+  },
+  {
+    "item_type": "ad",
+    "advertiser_id": "AR02934798844673654785",
+    "advertiser_name": "Booking.com",
+    "advertiser_domain": null,
+    "creative_id": "CR00152434093051609089",
+    "ad_url": "https://adstransparency.google.com/advertiser/AR02934798844673654785/creative/CR00152434093051609089",
+    "format": "TEXT",
+    "first_shown": "2021-10-25",
+    "last_shown": "2026-11-20",
+    "days_active": 1853,
+    "image_url": "https://tpc.googlesyndication.com/archive/simgad/10289769237081211869",
+    "video_url": null,
+    "preview_url": null,
+    "legal_name": "Booking.com B.V.",
+    "variation_count": 2,
+    "total_reach_low": 4000,
+    "total_reach_high": 5000,
+    "region_stats": [
+      {
+        "region": "HK",
+        "region_name": "Hong Kong",
+        "reach_low": null,
+        "reach_high": null,
+        "first_shown": null,
+        "last_shown": "2026-11-20",
+        "surfaces": null
+      },
+      {
+        "region": "HU",
+        "region_name": "Hungary",
+        "reach_low": null,
+        "reach_high": 1000,
+        "first_shown": "2024-02-11",
+        "last_shown": "2026-11-19",
+        "surfaces": [
+          {
+            "surface_code": 3,
+            "reach_low": null,
+            "reach_high": 1000
+          },
+          {
+            "surface_code": 2,
+            "reach_low": null,
+            "reach_high": 1000
+          }
+        ]
+      },
+      {
+        "region": "TW",
+        "region_name": "Taiwan",
+        "reach_low": null,
+        "reach_high": null,
+        "first_shown": null,
+        "last_shown": "2026-11-18",
+        "surfaces": null
+      },
+      {
+        "region": "AU",
+        "region_name": "Australia",
+        "reach_low": null,
+        "reach_high": null,
+        "first_shown": null,
+        "last_shown": "2026-11-19",
+        "surfaces": null
+      }
+    ],
+    "has_detail": true,
+    "source_query": "booking.com",
+    "region": "US",
+    "scraped_at": "2026-11-20T15:19:09Z"
+  }
+]

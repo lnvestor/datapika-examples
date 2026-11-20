@@ -1,0 +1,19 @@
+{
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "apify-token",
+      "description": "Apify API token",
+      "password": true
+    }
+  ],
+  "servers": {
+    "datapika": {
+      "type": "http",
+      "url": "https://mcp.apify.com/?tools=fetch-actor-details,openclawai/job-board-scraper,openclawai/linkedin-jobs-scraper,openclawai/reddit-scraper,openclawai/tiktok-douyin-bilibili-scraper,openclawai/airbnb-scraper,openclawai/career-site-ats-jobs-scraper,openclawai/google-maps-scraper,openclawai/meta-ad-library-scraper,openclawai/google-flights-scraper,openclawai/threads-scraper,openclawai/tiktok-shop-scraper,openclawai/google-ads-transparency-scraper,openclawai/kuaishou-scraper,openclawai/hotel-rental-scraper,openclawai/indeed-ziprecruiter-scraper,openclawai/wechat-scraper,openclawai/youtube-video-scraper,openclawai/trustpilot-reviews-scraper,openclawai/bilibili-scraper",
+      "headers": {
+        "Authorization": "Bearer ${input:apify-token}"
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+[
+  {
+    "from_airport": "JFK",
+    "to_airport": "LAX",
+    "date": "2026-12-20",
+    "return_date": null,
+    "trip": "one-way",
+    "seat": "economy",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants_in_seat": 0,
+      "infants_on_lap": 0
+    },
+    "airline_codes": [
+      "AA"
+    ],
+    "airline_names": [
+      "American"
+    ],
+    "price": 312,
+    "stops": 1,
+    "duration_min_total": 460,
+    "departure": "2026-12-20T18:30:00",
+    "arrival": "2026-12-21T09:34:00",
+    "segments": [
+      {
+        "from_airport": {
+          "code": "JFK",
+          "name": "John F. Kennedy International Airport"
+        },
+        "to_airport": {
+          "code": "LAS",
+          "name": "Harry Reid International Airport"
+        },
+        "departure": "2026-12-20T18:30:00",
+        "arrival": "2026-12-20T21:38:00",
+        "duration_min": 368,
+        "plane_type": "Boeing 737MAX 8 Passenger"
+      },
+      {
+        "from_airport": {
+          "code": "LAS",
+          "name": "Harry Reid International Airport"
+        },
+        "to_airport": {
+          "code": "LAX",
+          "name": "Los Angeles International Airport"
+        },
+        "departure": "2026-12-21T08:02:00",
+        "arrival": "2026-12-21T09:34:00",
+        "duration_min": 92,
+        "plane_type": "Boeing 737MAX 8 Passenger"
+      }
+    ],
+    "carbon_emission_g": 330000,
+    "carbon_typical_on_route_g": 325000,
+    "scraped_at": "2026-11-20T15:19:13.765178+00:00"
+  },
+  {
+    "from_airport": "JFK",
+    "to_airport": "LAX",
+    "date": "2026-12-20",
+    "return_date": null,
+    "trip": "one-way",
+    "seat": "economy",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants_in_seat": 0,
+      "infants_on_lap": 0
+    },
+    "airline_codes": [
+      "AA"
+    ],
+    "airline_names": [
+      "American"
+    ],
+    "price": 394,
+    "stops": 1,
+    "duration_min_total": 435,
+    "departure": "2026-12-20T09:10:00",
+    "arrival": "2026-12-20T15:39:00",
+    "segments": [
+      {
+        "from_airport": {
+          "code": "JFK",
+          "name": "John F. Kennedy International Airport"
+        },
+        "to_airport": {
+          "code": "PHX",
+          "name": "Phoenix Sky Harbor International Airport"
+        },
+        "departure": "2026-12-20T09:10:00",
+        "arrival": "2026-12-20T12:50:00",
+        "duration_min": 340,
+        "plane_type": "Boeing 787"
+      },
+      {
+        "from_airport": {
+          "code": "PHX",
+          "name": "Phoenix Sky Harbor International Airport"
+        },
+        "to_airport": {
+          "code": "LAX",
+          "name": "Los Angeles International Airport"
+        },
+        "departure": "2026-12-20T15:04:00",
+        "arrival": "2026-12-20T15:39:00",
+        "duration_min": 95,
+        "plane_type": "Airbus A321neo"
+      }
+    ],
+    "carbon_emission_g": 318000,
+    "carbon_typical_on_route_g": 325000,
+    "scraped_at": "2026-11-20T15:19:13.765178+00:00"
+  }
+]
