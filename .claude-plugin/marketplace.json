@@ -1,0 +1,20 @@
+{
+  "name": "datapika",
+  "owner": {
+    "name": "Datapika",
+    "url": "https://datapika.com"
+  },
+  "metadata": {
+    "description": "Live public web data for agents: jobs, Reddit, TikTok, reviews, ads, maps, flights and stays.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "datapika",
+      "source": "./plugins/datapika",
+      "description": "Datapika skill plus the Datapika MCP server: 19 web data actors (jobs, Reddit, TikTok, YouTube, Trustpilot, Meta and Google ads, Google Maps, Airbnb, flights, hotels) your agent can run and pay per result.",
+      "category": "data",
+      "homepage": "https://datapika.com/agents"
+    }
+  ]
+}

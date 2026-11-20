@@ -33,6 +33,20 @@ Every Python example was run against the live actor on 2026-11-20 before it was 
 
 The full catalog is at [datapika.com/actors](https://datapika.com/actors).
 
+## Use it from your AI agent
+
+**Claude Code plugin** (Datapika skill + MCP server in one install):
+
+```
+/plugin install datapika --marketplace lnvestor/datapika-examples
+```
+
+On older Claude Code versions, run `/plugin marketplace add lnvestor/datapika-examples` first, then `/plugin install datapika@datapika`.
+
+**Skill only** (any agent that reads SKILL.md files): copy [`plugins/datapika/skills/datapika/SKILL.md`](plugins/datapika/skills/datapika/SKILL.md) into your agent's skills folder, or run `npx skills add lnvestor/datapika-examples`.
+
+**MCP only**: see [`mcp/`](mcp/) or [datapika.com/mcp](https://datapika.com/mcp) for Claude Code, Cursor, VS Code and Codex configs.
+
 ## Quick start
 
 1. Create an Apify account at [console.apify.com/sign-up](https://console.apify.com/sign-up). A free account is enough to start.

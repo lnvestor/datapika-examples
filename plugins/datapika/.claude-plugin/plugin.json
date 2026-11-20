@@ -1,0 +1,23 @@
+{
+  "name": "datapika",
+  "displayName": "Datapika",
+  "version": "1.0.0",
+  "description": "Live public web data for your agent: jobs across 8 boards, Reddit, TikTok, YouTube, reviews, ad libraries, Google Maps, Airbnb, flights and hotels. Skill + MCP server.",
+  "author": {
+    "name": "Datapika",
+    "url": "https://datapika.com"
+  },
+  "homepage": "https://datapika.com/agents",
+  "repository": "https://github.com/lnvestor/datapika-examples",
+  "license": "MIT",
+  "keywords": [
+    "web-scraping",
+    "data",
+    "jobs",
+    "reddit",
+    "tiktok",
+    "google-maps",
+    "mcp",
+    "apify"
+  ]
+}
