@@ -47,6 +47,8 @@ On older Claude Code versions, run `/plugin marketplace add lnvestor/datapika-ex
 
 **MCP only**: see [`mcp/`](mcp/) or [datapika.com/mcp](https://datapika.com/mcp) for Claude Code, Cursor, VS Code and Codex configs.
 
+The MCP server is listed in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.lnvestor/datapika) as `io.github.lnvestor/datapika`. Its entry is [`server.json`](server.json), published by [`.github/workflows/mcp-registry.yml`](.github/workflows/mcp-registry.yml).
+
 ## Quick start
 
 1. Create an Apify account at [console.apify.com/sign-up](https://console.apify.com/sign-up). A free account is enough to start.
