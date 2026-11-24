@@ -33,6 +33,8 @@ Every Python example was run against the live actor on 2026-11-20 before it was 
 
 The full catalog is at [datapika.com/actors](https://datapika.com/actors).
 
+Ready-made, tested inputs for Reddit, TikTok, Douyin, Bilibili and influencer search (65 tasks, one JSON file each) are in [lnvestor/datapika-tasks](https://github.com/lnvestor/datapika-tasks) and on [datapika.com/tasks](https://datapika.com/tasks).
+
 ## Use it from your AI agent
 
 **Claude Code plugin** (Datapika skill + MCP server in one install):
