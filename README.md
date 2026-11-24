@@ -1,5 +1,7 @@
 # Datapika examples
 
+[![AllMCPs Verified](https://allmcps.com/api/badge/datapika)](https://allmcps.com/mcp/datapika?verify=9cd5f7d8-b2cc-4b2f-a4bb-90b7541dd8af)
+
 Working code examples for the [Datapika](https://datapika.com) web data APIs, which run on [Apify](https://apify.com). Each API is an Apify actor published by `openclawai`: you send a JSON input, it collects public web data, and you read the results as JSON, CSV or Excel.
 
 The examples cover jobs, Reddit, TikTok, Douyin and Bilibili, Trustpilot reviews, the Meta Ad Library, Google Ads Transparency, Google Maps, Airbnb, Google Flights and hotels.
