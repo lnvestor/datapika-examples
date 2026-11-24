@@ -35,6 +35,8 @@ The full catalog is at [datapika.com/actors](https://datapika.com/actors).
 
 Ready-made, tested inputs for Reddit, TikTok, Douyin, Bilibili and influencer search (65 tasks, one JSON file each) are in [lnvestor/datapika-tasks](https://github.com/lnvestor/datapika-tasks) and on [datapika.com/tasks](https://datapika.com/tasks).
 
+Both repos are on Context7 for coding agents: [`/lnvestor/datapika-examples`](https://context7.com/lnvestor/datapika-examples) and [`/lnvestor/datapika-tasks`](https://context7.com/lnvestor/datapika-tasks).
+
 ## Use it from your AI agent
 
 **Claude Code plugin** (Datapika skill + MCP server in one install):
