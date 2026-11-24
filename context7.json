@@ -1,0 +1,18 @@
+{
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "Datapika web data APIs: code examples",
+  "description": "Working curl, Python and Node.js examples for the Datapika scrapers on Apify: jobs from LinkedIn, Indeed, Glassdoor, ZipRecruiter and more; Reddit posts and comments without a Reddit API key; TikTok, Douyin and Bilibili; Trustpilot reviews; Meta Ad Library and Google Ads Transparency; Google Maps places; Airbnb, hotels and Google Flights. Plus MCP setup for Claude Code, Cursor and VS Code. Billed per result.",
+  "excludeFolders": [
+    "plugins",
+    ".github"
+  ],
+  "rules": [
+    "Each API is an Apify actor under the openclawai account, e.g. openclawai/job-board-scraper, openclawai/reddit-scraper, openclawai/google-maps-scraper. Call them through the Apify API, an Apify client or the Apify MCP server.",
+    "Authenticate with an Apify API token in the Authorization: Bearer header, read from the APIFY_TOKEN environment variable. Never put the token in the input JSON or in committed code.",
+    "Set a cost cap on every run: maxTotalChargeUsd (query parameter or JavaScript option) or max_total_charge_usd (Python). Runs bill per result to the caller's Apify account.",
+    "Check an actor's input fields at https://apify.com/openclawai/<actor>/input-schema before building an input; start with a small limit such as maxItems 20.",
+    "Reddit Scraper needs no Reddit API key, Reddit app or Reddit login: it reads public Reddit data.",
+    "run-sync-get-dataset-items returns the rows in one request for runs under 5 minutes. For longer runs, start the run, wait for it to finish, then read its default dataset.",
+    "To give an MCP client one actor as a tool, use https://mcp.apify.com/?tools=fetch-actor-details,openclawai/<actor>."
+  ]
+}
