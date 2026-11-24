@@ -1,6 +1,6 @@
 # Datapika examples
 
-[![AllMCPs Verified](https://allmcps.com/api/badge/datapika)](https://allmcps.com/mcp/datapika?verify=9cd5f7d8-b2cc-4b2f-a4bb-90b7541dd8af)
+[![AllMCPs Verified](https://allmcps.com/api/badge/datapika)](https://allmcps.com/mcp/datapika?verify=9cd5f7d8-b2cc-4b2f-a4bb-90b7541dd8af) [![Datapika MCP connector](https://glama.ai/mcp/connectors/io.github.lnvestor/datapika/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.lnvestor/datapika)
 
 Working code examples for the [Datapika](https://datapika.com) web data APIs, which run on [Apify](https://apify.com). Each API is an Apify actor published by `openclawai`: you send a JSON input, it collects public web data, and you read the results as JSON, CSV or Excel.
 
